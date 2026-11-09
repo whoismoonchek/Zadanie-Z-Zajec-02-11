@@ -12,9 +12,9 @@ Fonty: League Gothic (nagłówki, menu) i Manrope (tekst opisowy), oba na licenc
 
 Technical Information
 
-Software: [Photoshop]
-Resolution: [1440 × 1080]
-Format: PNG / JPG
+Software: Photoshop
+Resolution: 1440 × 1080
+Format: PSD / JPG 
 
 Pliki projektu
 
